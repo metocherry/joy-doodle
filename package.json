@@ -1,0 +1,16 @@
+{
+  "name": "joy-doodle",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "repository": "git@github.com:metocherry/joy-doodle.git",
+  "author": "jinseok <metocherry@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-nightly.1981",
+    "parcel": "next"
+  }
+}
